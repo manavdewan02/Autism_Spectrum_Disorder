@@ -21,7 +21,7 @@ Transfer learning with **InceptionV3** (pretrained on ImageNet) for binary image
 
 ## Dataset
 The dataset used in this project is available here:
-[Google Drive Link]((https://drive.google.com/drive/folders/1X8F3JratusRCRbFfaAJzw2gj6SDDAVFV?usp=sharing))
+[Google Drive Link](https://drive.google.com/drive/folders/1X8F3JratusRCRbFfaAJzw2gj6SDDAVFV?usp=sharing)
 
 ## How to Run
 1. Open the notebook in Google Colab or Kaggle
